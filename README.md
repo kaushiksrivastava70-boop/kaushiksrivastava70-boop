@@ -1,30 +1,10 @@
-# Hi there, I'm Kaushik Srivastava! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=code&color=00FF00&height=150&section=header&text=ACCESS%20GRANTED:%20KAUSHIK_V2&fontSize=40&animation=fadeIn&fontAlignY=35&desc=INITIALIZING%20VISUAL%20INTERFACE...&descAlignY=60&descSize=20" stroke="00FF00" />
+</p>
 
-### 🚀 Python & Java Developer | UI/UX Enthusiast
-Main ek passionate coder hoon jo Python aur Java ke zariye complex problems solve karna aur modern Interfaces design karna pasand karta hoon. 
-
-- 🏆 **Hackathon Participant** (Target: Feb 15)
-- 🐍 Specializing in **Python (CustomTkinter)** and **Java Development**
-- 🌱 Currently mastering **Software Architecture and Clean Code**
-- 🤝 Open for collaboration on cool projects!
-
----
-
-### 🛠 Tech Stack
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **UI Frameworks** | ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-blue?style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=kaushiksrivastava70-boop&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksrivastava70-boop&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-srivastava)
-
+## 📟 > whoami
+```bash
+# STATUS: INITIALIZING...
+# USER: Kaushik Srivastava
+# ROLE: Python & Java UI/UX Developer
+# TARGET: Hackathon Feb 15
