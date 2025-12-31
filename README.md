@@ -1,33 +1,29 @@
+# Hi there, I'm Kaushik Srivastava! 👋
 
-# Basic Settings
-ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("blue")
+### 🚀 Python & Java Developer | UI/UX Enthusiast
+Main ek passionate coder hoon jo Python aur Java ke zariye complex problems solve karna aur modern Interfaces design karna pasand karta hoon. 
 
-class App(ctk.CTk):
-    def __init__(self):
-        super().__init__()
-        self.title("Kaushik's UI Project")
-        self.geometry("400x480")
+- 🏆 **Hackathon Participant** (Target: Feb 15)
+- 🐍 Specializing in **Python (CustomTkinter)** and **Java Development**
+- 🌱 Currently mastering **Software Architecture and Clean Code**
+- 🤝 Open for collaboration on cool projects!
 
-        # UI Elements
-        self.label = ctk.CTkLabel(self, text="Welcome Back", font=("Roboto", 24))
-        self.label.pack(pady=40)
+---
 
-        self.entry1 = ctk.CTkEntry(self, placeholder_text="Username", width=250)
-        self.entry1.pack(pady=12)
+### 🛠 Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **UI Frameworks** | ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-blue?style=flat) ![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
-        self.entry2 = ctk.CTkEntry(self, placeholder_text="Password", show="*", width=250)
-        self.entry2.pack(pady=12)
+---
 
-        self.button = ctk.CTkButton(self, text="Login", command=self.login, width=200)
-        self.button.pack(pady=24)
+### 📊 GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=kaushiksrivastava70-boop&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksrivastava70-boop&layout=compact&theme=tokyonight)
 
-        self.checkbox = ctk.CTkCheckBox(self, text="Remember Me")
-        self.checkbox.pack(pady=10)
+---
 
-    def login(self):
-        print("Login Attempted!")
-
-if __name__ == "__main__":
-    app = App()
-    app.mainloop()
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-srivastava)
