@@ -1,7 +1,7 @@
 # Hi there, I'm Kaushik Srivastava! 👋
 
 ### 🚀 Python & Java Developer | UI/UX Enthusiast
-Main ek passionate coder hoon jo Python aur Java ke zariye complex problems solve karna aur modern Interfaces design karna pasand karta hoon. 
+I am a passionate coder that loves to use python java and html css. 
 
 - 🏆 **Hackathon Participant** (Target: Feb 15)
 - 🐍 Specializing in **Python (CustomTkinter)** and **Java Development**
